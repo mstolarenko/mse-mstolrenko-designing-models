@@ -3,6 +3,8 @@
 > * Participant name: Maxwell Stolarenko
 > * Project Title: **Modeling Maritime Ship Docking Backlogs**
 
+**This repository is a reupload of a project I worked on as a Modeling and Simulation graduate student at the University of Central Florida to allow for public access. All work shown here was written by me.**
+
 # General Introduction
 
 The first part of this assignment explores designing models. We also look at some tools we will use in the semester -  basic Python/Git features.
